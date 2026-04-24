@@ -45,3 +45,60 @@
 </table>
 
 ---
+<details open>
+  <summary><h3>🎓 Education & Certifications</h3></summary>
+  <ul>
+    <li>
+      <strong>Bachelor of Computer Science</strong>, Faculty of Computers and Information, Tanta University (Jan 2024)[cite: 11].
+    </li>
+    <li>
+      <strong>Open-Source Application Development Training</strong>, National Telecommunication Institute - NTI (January 2026)[cite: 13].
+    </li>
+    <li>
+      <strong>Mobile Application Development (Flutter) Training</strong>, Information Technology Institute - ITI (September 2022)[cite: 14].
+    </li>
+    <li>
+      <strong>Internet of Things (IoT) Training</strong>, Information Technology Institute - ITI (September 2021)[cite: 17].
+    </li>
+    <li>
+      <strong>Artificial Intelligence Training</strong>, National Telecommunication Institute - NTI (August 2021)[cite: 18].
+    </li>
+  </ul>
+</details>
+
+<hr />
+
+<details open>
+  <summary><h3>💼 Professional Experience</h3></summary>
+  <ul>
+    <li>
+      <strong>IT Help Desk Technician</strong> at OMC Company, 6th October, El-Giza (Feb 2024 - Sep 2024)[cite: 9].
+    </li>
+    <li>
+      <strong>Full Stack Developer</strong> specializing in building comprehensive software solutions and high-quality software[cite: 4].
+    </li>
+    <li>
+      Hands-on experience with <strong>Node.js, Express, NestJS</strong> (Backend) and <strong>React, Next.js</strong> (Frontend)[cite: 6].
+    </li>
+  </ul>
+</details>
+
+<hr />
+
+<details open>
+  <summary><h3>🌟 Volunteering & Leadership</h3></summary>
+  <ul>
+    <li>
+      <strong>Member of IEEE</strong>, Tanta Student Branch[cite: 21].
+    </li>
+    <li>
+      <strong>Student Union Member</strong>, Tanta University (2019 - 2022)[cite: 20].
+    </li>
+  </ul>
+</details>
+
+<hr />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KareemGomaa&label=Profile%20Views&color=0077B5&style=flat" alt="Views" />
+</p>

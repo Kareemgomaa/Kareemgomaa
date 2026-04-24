@@ -100,5 +100,5 @@
 <hr />
 
 <p align="center">
-  <img src="" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=KareemGomaa&label=Profile%20Views&color=0077B5&style=flat" alt="Views" />
 </p>

@@ -48,9 +48,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemGomaa&show_icons=true&theme=tokyonight" alt="Kareem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KareemGomaa&show_icons=true&theme=tokyonight" alt="Kareem's GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGomaa&layout=donut&theme=tokyonight" alt="Kareem's Top Languages" width="43%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KareemGomaa&layout=compact&theme=tokyonight" alt="Kareem's Top Languages" width="47%" />
 </p>
 
 ---

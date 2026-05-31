@@ -45,6 +45,14 @@
 </table>
 
 ---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KareemGomaa&show_icons=true&theme=tokyonight" alt="Kareem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemGomaa&layout=compact&theme=tokyonight" alt="Kareem's Top Languages" />
+</p>
+
+---
 <details open>
   <summary><h3>🎓 Education & Certifications</h3></summary>
   <ul>
@@ -89,10 +97,10 @@
   <summary><h3>🌟 Volunteering & Leadership</h3></summary>
   <ul>
     <li>
-      <strong>Member of IEEE</strong>, Tanta Student Branch[cite: 21].
+      <strong>Member of IEEE</strong>, Tanta Student Branch.
     </li>
     <li>
-      <strong>Student Union Member</strong>, Tanta University (2019 - 2022)[cite: 20].
+      <strong>Student Union Member</strong>, Tanta University (2019 - 2022).
     </li>
   </ul>
 </details>
